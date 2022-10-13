@@ -1,2 +1,2 @@
 # vuejs-blackfriday-elo
-Cielo black friday page build on Vuejs
+Cielo black friday page build on Vuejs/Nuxtjs
